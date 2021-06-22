@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Jeffrey Yeh but you can call me Jeff  
+I am a software developer experienced in web development and software defined radio.  
+My Interest in programing is how it could helps simplify peoples' day-to-day lives.  
+
+### 📊 Stats  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!--
 **TsungLinYeh/TsungLinYeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
