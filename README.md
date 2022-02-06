@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jeffrey Yeh but you can call me Jeff  
+### Hi there 👋 I'm Jeffrey Yeh and you can call me Jeff  
 I am a software developer experienced in web development and software defined radio.  
 My Interest in programing is how it could helps simplify peoples' day-to-day lives.  
 
